@@ -1,7 +1,7 @@
 - interested in UX/UI design, css, php 👀
 - currently learning php, MySQL 🌱
 - volunteer in non-profit projects 💫 
-- worked on [drevenicaumateja.sk](https://drevenicaumateja.sk)
+- worked on [drevenicaumateja.sk](https://drevenicaumateja.sk), [edge.cbza.sk](https://edge.cbza.sk)
 
 
 tools i like to use <br><br>
