@@ -1,5 +1,6 @@
-- interested in UX/UI design, css, php 👀
-- currently learning php, MySQL 🌱
+- interested in UX/UI design, web development 👀
+- exp with html/css, php, java 💁
+- currently learning c++, ruby 🌱
 - volunteer in non-profit projects 💫 
 - worked on [drevenicaumateja.sk](https://drevenicaumateja.sk), [edge.cbza.sk](https://edge.cbza.sk)
 
