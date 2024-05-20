@@ -2,4 +2,4 @@
 - exp with html/css, php, java 💁
 - currently learning ruby, c++ 🌱
 - volunteer in non-profit projects 💫 
-- worked on [drevenicaumateja.sk](https://drevenicaumateja.sk), [edge.cbza.sk](https://edge.cbza.sk), [zabudnutecesty.sk](https://zabudnutecesty.sk)
+- worked on wordpress webs [drevenicaumateja.sk](https://drevenicaumateja.sk), [edge.cbza.sk](https://edge.cbza.sk), [zabudnutecesty.sk](https://zabudnutecesty.sk)
